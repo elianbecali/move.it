@@ -14,7 +14,9 @@
 
   <img alt="Repository size" src="https://img.shields.io/github/repo-size/elianbecali/move.it?style=flat-square">
 	
-<img src="https://img.shields.io/github/stars/elianbecali/move.it?style=flat-square" />
+  <img src="https://img.shields.io/github/stars/elianbecali/move.it?style=flat-square" />
+  
+  <img src="https://img.shields.io/github/license/elianbecali/move.it?style=flat-square" />
 
   <a href="https://github.com/elianbecali/move.it/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elianbecali/move.it?style=flat-square&">
