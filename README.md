@@ -16,8 +16,6 @@
 	
 <img src="https://img.shields.io/github/stars/elianbecali/move.it?style=flat-square" />
 
-<img src="https://img.shields.io/github/license/elianbecali/move.it?style=flat-square" />
-	 
   <a href="https://github.com/elianbecali/move.it/commits/main">
     <img alt="GitHub last commit" src="https://img.shields.io/github/last-commit/elianbecali/move.it?style=flat-square&">
   </a>
@@ -37,7 +35,7 @@ Tabela de conteúdos
 =================
 <!--ts-->
    * [Sobre o projeto](#-sobre-o-projeto)
-   * [Funcionalidades](#-funcionalidades)
+   * [Funcionalidades](#%EF%B8%8F-funcionalidades)
    * [Layout](#-layout)
    * [Como executar o projeto](#-como-executar-o-projeto)
      * [Pré-requisitos](#pré-requisitos)
