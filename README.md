@@ -10,9 +10,9 @@
 </h3>
 
 <p align="center">
-  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elianbecali/move.it?color=%2304D361">
+  <img alt="GitHub language count" src="https://img.shields.io/github/languages/count/elianbecali/move.it?style=flat-square&&color=%2304D361" />
 
-  <img alt="Repository size" src="https://img.shields.io/github/repo-size/elianbecali/move.it?style=flat-square">
+  <img alt="Repository size" src="https://img.shields.io/github/repo-size/elianbecali/move.it?style=flat-square" />
 	
   <img src="https://img.shields.io/github/stars/elianbecali/move.it?style=flat-square" />
   
