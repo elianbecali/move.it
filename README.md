@@ -121,6 +121,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   **[React](https://reactjs.org/)** 
 -   **[TypeScript](https://www.typescriptlang.org/)**
 -   **[Next.js](https://nextjs.org/)**
+-   **[js-cookie](https://github.com/js-cookie/js-cookie/)**
 
 > Veja o arquivo  [package.json](https://github.com/elianbecali/move.it/blob/main/package.json)
 
