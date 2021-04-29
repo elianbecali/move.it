@@ -30,7 +30,7 @@
 </p>
 
 <h4 align="center">
-	🚧   Em construção 🚀 🚧
+	🚧 🚀 Concluído 🚀 🚧
 </h4>
 
 Tabela de conteúdos
